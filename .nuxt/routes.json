@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/home",
+        "_name": "_5462178e"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/login",
+        "_name": "_37704962"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/login",
+        "_name": "_37704962"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/profile",
+        "_name": "_6a35d7e2"
+      },
+      {
+        "path": "/settings/",
+        "name": "settings",
+        "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/settings",
+        "_name": "_22fd7e7d"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/editor",
+        "_name": "_cfb09b72"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/shishengzhuo/vue/realworld-nuxtjs/pages/article",
+        "_name": "_9ca15148"
+      }
+    ],
+    "_name": "_b812e7f8"
+  }
+]
